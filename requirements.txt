@@ -1,0 +1,6 @@
+streamlit==1.38.0
+xgboost==2.1.1
+pandas==2.2.3
+scikit-learn==1.5.2
+fpdf2==2.7.9
+joblib==1.4.2
